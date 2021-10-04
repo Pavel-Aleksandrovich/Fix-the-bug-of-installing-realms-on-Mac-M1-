@@ -5,7 +5,7 @@ https://github.com/CocoaPods/CocoaPods/issues/9907
 
 open a terminal
 
-go to the root directory of your app
+go to the root directory of your app and enter
 
 sudo arch -x86_64 gem install ffi
 
