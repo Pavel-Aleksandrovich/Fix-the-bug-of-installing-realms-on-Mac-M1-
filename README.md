@@ -14,3 +14,11 @@ pod init
 nano podfile
 
 arch -x86_64 pod install
+
+
+///
+ERROR: Could not automatically select an Xcode project. Specify one in your Podfile like so:
+
+Solution:
+target 'desertOfWealth' do
+project '/Users/pavelmishanin/Desktop/wvswift/desertOfWealth.xcodeproj'
